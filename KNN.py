@@ -1,5 +1,6 @@
 '''
 This is an example of KNN algorithm of Python
+My Name is Danny, this is contributed by me
 '''
 
 import numpy as np
